@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "react-scripts --openssl-legacy-provider start",
+
     "generate": "nuxt generate"
   },
   "dependencies": {
